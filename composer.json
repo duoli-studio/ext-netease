@@ -1,6 +1,7 @@
 {
 	"name": "poppy/ext-netease",
 	"description": "Poppy NetEase Im Extension.",
+	"license": "MIT",
 	"type": "poppy-extension",
 	"authors": [
 		{
